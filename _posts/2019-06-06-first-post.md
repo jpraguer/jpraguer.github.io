@@ -48,11 +48,7 @@ R code block:
 Here's some inline code `x+y`.
 
 Here's an image:
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/network.jpg" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/images/network.jpg" alt="">
 
 Here's another image using Kramdown:
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/network.jpg)
-
-$$z=x+y$$
-
-You can also put it inline: $$z=x+y$$
+![alt]({{ site.url }}{{ site.baseurl }}/images/network.jpg)
