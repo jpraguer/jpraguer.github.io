@@ -57,8 +57,9 @@ plugins:
 
 author:
   name   : "Jirka Prazan"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/images/JP.jpg"
   bio    : "I'm a Sydney-based data scientist originally from Prague. As a behavioural economist by training, I love to analyse people's behaviour."
+  location: "Sydney, Australia"
   links:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
