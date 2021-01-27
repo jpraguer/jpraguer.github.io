@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+layout: splash
 author_profile: true
 header: 
     image: "/assets/images/home2.jpg"

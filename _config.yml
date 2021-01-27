@@ -54,6 +54,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-jupyter-notebook
 
 author:
   name   : "Jirka Prazan"
@@ -100,7 +101,7 @@ defaults:
       path: "_pages"
       type: pages
     values:
-      layout: splash
+      layout: single
       author_profile: true
 
 category_archive:
