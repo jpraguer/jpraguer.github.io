@@ -62,7 +62,7 @@ author:
   location: "Prague, Czechia"
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/jiriprazan"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -75,7 +75,7 @@ footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/jpraguer"
+      url: "https://linkedin.com/in/jiriprazan"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/jpraguer"
