@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/home2.jpg
   actions:
-    - label: "<i class='fas fa-download'></i> Contact me!"
+    - label: "<i class='fas fa-envelope-open-text'></i> Contact me!"
       url: "mailto:jiri.prazan@gmail.com"
 excerpt:
   <br>Data Science generalist with 3+ years of experience. Enjoys Machine Learning competitions and working on products that change the status quo.<br/>
