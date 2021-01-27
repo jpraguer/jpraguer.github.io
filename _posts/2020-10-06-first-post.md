@@ -1,8 +1,8 @@
 ---
 title: "Machine Learning Project: Perceptron"
-date: 2019-06-06
-tags: [machine learning, data science, neural network]
-excerpt: "Machine Learning, Perceptron, Data Science"
+date: 2020-10-06
+tags: [machine learning, data science, classification]
+excerpt: "Machine Learning, Data Science, Classification"
 ---
 
 # H1 Heading
@@ -52,3 +52,8 @@ Here's an image:
 
 Here's another image using Kramdown:
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/network.jpg)
+
+And here's a Jupyter Notebook:
+{::nomarkdown}
+{% jupyter_notebook "ClassificationEDABaseline.ipynb" %}
+{:/nomarkdown}
