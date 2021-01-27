@@ -2,10 +2,11 @@
 permalink: /about/
 title: "About"
 header: 
-    image: "/images/Prahahaha.jpg"
+    image: "/assets/images/home2.jpg"
 ---
 
-I'm a junior data scientist, currently exploring new opportunities in tech, ideally working on products I feel passionate about. 
-I specialise in exploratory analyses and data visualisations.
+I'm a data scientist, currently exploring new opportunities in tech, 
+ideally working on products I feel passionate about. :wink:
+I specialise in exploratory analyses and data visualisations. :smile:
 
-The End.
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/about.jpg" alt="" class="full">
