@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: JP's Analyses
+title: JP's Portfolio
 email: jiri.prazan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Jirka Prazan's Data Science Portfolio
@@ -62,7 +62,7 @@ author:
   location: "Prague, Czechia"
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-linkedin"
       url: "https://linkedin.com/in/jiriprazan"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -74,7 +74,7 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-link"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/jpraguer"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
