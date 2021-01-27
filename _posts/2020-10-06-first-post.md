@@ -53,7 +53,4 @@ Here's an image:
 Here's another image using Kramdown:
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/network.jpg)
 
-And here's a Jupyter Notebook:
-{::nomarkdown}
-{% jupyter_notebook "ClassificationEDABaseline.ipynb" %}
-{:/nomarkdown}
+And here's a [Jupyter Notebook]({{ site.url }}{{ site.baseurl }}/_posts/2021-01-28-Classification-EDA-Baseline.md)
