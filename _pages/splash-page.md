@@ -17,14 +17,14 @@ feature_row:
   - image_path: /assets/images/classification.png
     alt: "classification"
     title: "Classification Template"
-    excerpt: "Have a binary classification ML problem? Adapt my script for binary classification competition baseline!"
+    excerpt: "Have a binary classification ML problem? Adapt this script for binary classification competition baseline!"
     url: "/Classification-EDA-Baseline/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/regression.png
     alt: "regression"
     title: "Regression Template"
-    excerpt: "Have a regression ML issue? Check out my approach to tabular regression competition baseline!"
+    excerpt: "Have a regression ML issue? Check out this approach to tabular regression competition baseline!"
     url: "/first-post/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
