@@ -10,7 +10,9 @@ excerpt: "Machine Learning, Data Science, Classification"
 
 Go there and register to be able to download the dataset and submit your predictions.Click the button below to open this notebook in Google Colab!
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]("https://colab.research.google.com/github/jpraguer/jpraguer.github.io/blob/master/assets/ipynbs/ClassificationEDABaseline.ipynb")
+{::nomarkdown}
+<a href="https://colab.research.google.com/github/jpraguer/jpraguer.github.io/blob/master/assets/ipynbs/ClassificationEDABaseline.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+{:/}
 
 Cross-selling identifies products or services that satisfy additional, complementary needs that are unfulfilled by the original product that a customer possesses. As an example, a mouse could be cross-sold to a customer purchasing a keyboard. Oftentimes, cross-selling points users to products they would have purchased anyways; by showing them at the right time, a store ensures they make the sale.
 
