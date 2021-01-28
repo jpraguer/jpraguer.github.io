@@ -1,9 +1,15 @@
+---
+title: "Janatahack: Cross-sell Prediction"
+date: 2021-01-28
+tags: [machine learning, data science, classification]
+excerpt: "Machine Learning, Data Science, Classification"
+---
 # Janatahack: Cross-sell Prediction
 [Link to competition here!](https://datahack.analyticsvidhya.com/contest/janatahack-cross-sell-prediction/)
 
 Go there and register to be able to download the dataset and submit your predictions.Click the button below to open this notebook in Google Colab!
 
-<a href="https://colab.research.google.com/github/jpraguer/jpraguer.github.io/master/_posts/ClassificationEDABaseline.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/jpraguer/jpraguer.github.io/master/assets/ipynbs/ClassificationEDABaseline.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 Cross-selling identifies products or services that satisfy additional, complementary needs that are unfulfilled by the original product that a customer possesses. As an example, a mouse could be cross-sold to a customer purchasing a keyboard. Oftentimes, cross-selling points users to products they would have purchased anyways; by showing them at the right time, a store ensures they make the sale.
 

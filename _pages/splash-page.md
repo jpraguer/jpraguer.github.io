@@ -18,7 +18,7 @@ feature_row:
     alt: "classification"
     title: "Classification Template"
     excerpt: "Have a binary classification ML problem? Adapt my script for binary classification competition baseline!"
-    url: "/first-post/"
+    url: "/Classification-EDA-Baseline/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/regression.png
