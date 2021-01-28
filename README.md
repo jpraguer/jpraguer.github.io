@@ -1,2 +1,2 @@
 # jpraguer.github.io
-JP's data science portfolio
+JP's data science templates
