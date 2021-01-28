@@ -15,16 +15,15 @@ excerpt:
   I specialise in exploratory analyses and data visualisations. :smile:<br/>
   <small>I currently live in Prague, Czech Republic, but am keen to travel after the global pandemic subsides.</small>
 intro: 
-  - excerpt: "After taking online courses in computer science and machine learning alongside fulltime work in the past two years, I started competing on [kaggle](kaggle.com) and [Analytics Vidhya](analyticsvidhya.com). After going through 30+ competitions, I realised that most of them fit a certain pattern. Therefore, to speed up anyone's start in the ML comps world, I decided to publish a few templates for different competition types, that allow to explore relationships between variables, fill null values, do basic transformations, as well as establish a model baseline using state of the art Gradient Boosted Decision Tree models, such as LightGBM or Catboost. Czech out :wink: the posts section for those templates, more will be added as time goes on."
-feature_row_center:
   - image_path: /assets/images/about.jpg
-    title: "Good Vibes Only"
-    excerpt: "Oh and I'm Czech. Did I mention that Czech beer is VERY good?"
+  - excerpt: "After taking online courses in computer science and machine learning alongside fulltime work, I started competing on [kaggle](https://www.kaggle.com) and [Analytics Vidhya](https://www.analyticsvidhya.com). After going through 30+ competitions, I realised that most of them fit a certain pattern. Therefore, to speed up anyone's start in the (tabular for now) ML comps world, I decided to publish a few templates for different competition types, that allow to explore relationships between variables, fill null values, do basic transformations. The templates also show how to establish a simple model baseline using state of the art Gradient Boosted Decision Tree models, such as LightGBM or Catboost. No feature engineering or hyper parameter tuning is included (that's secret sauce for now). Czech out :wink: the posts section for those ipynbs (directly runnable in Google Colab), more will be added as time goes on."
+# feature_row_center:
+#   - image_path: /assets/images/about.jpg
+#     title: "Good Vibes Only"
+#     excerpt: "Oh and I'm Czech. Did I mention that Czech beer is VERY good?"
     # url: "#test-link"
     # btn_label: "Read More"
     # btn_class: "btn--primary"
 ---
 
-{% include feature_row id="intro" type="center" %}
-
-{% include feature_row id="feature_row_center" type="center" %}
+{% include feature_row id="intro" type="left" %}
