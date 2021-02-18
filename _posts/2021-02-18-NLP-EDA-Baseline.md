@@ -7,27 +7,15 @@ excerpt: "Machine Learning, Data Science, NLP"
 
 # Topic Modeling for Research Articles 2.0
 
-
-
 [Link to competition here!](https://datahack.analyticsvidhya.com/contest/hacklive-3-guided-hackathon-text-classification/)
-
-
 
 Go there and register to be able to download the dataset and submit your predictions. Click the button below to open this notebook in Google Colab!
 
-
-
-<a href="https://colab.research.google.com/github/jpraguer/jpraguer.github.io/master/assets/ipynbs/NLPEDABaseline.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]("https://colab.research.google.com/github/jpraguer/jpraguer.github.io/blob/master/assets/ipynbs/NLPEDABaseline.ipynb")
 
 Researchers have access to large online archives of scientific articles. As a consequence, finding relevant articles has become more and more difficult. Tagging or topic modelling provides a way to give clear token of identification to research articles which facilitates recommendation and search process. 
 
-
-
 Earlier on the Independence Day we conducted a Hackathon to predict the topics for each article included in the test set. Continuing with the same problem, In this Live Hackathon we will take one more step ahead and predict the tags associated with the articles.
-
-
 
 Given the abstracts for a set of research articles, predict the tags for each article included in the test set. 
 
@@ -50,10 +38,7 @@ Note that a research article can possibly have multiple tags. The research artic
 4. Statistics
 
 
-
 List of 25 possible tags are as follows:
-
-
 
 [Tags, Analysis of PDEs, Applications, Artificial Intelligence,Astrophysics of Galaxies, Computation and Language, Computer Vision and Pattern Recognition, Cosmology and Nongalactic Astrophysics, Data Structures and Algorithms, Differential Geometry, Earth and Planetary Astrophysics, Fluid Dynamics,Information Theory, Instrumentation and Methods for Astrophysics, Machine Learning, Materials Science, Methodology, Number Theory, Optimization and Control, Representation Theory, Robotics, Social and Information Networks, Statistics Theory, Strongly Correlated Electrons, Superconductivity, Systems and Control]
 
