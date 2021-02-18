@@ -1,4 +1,9 @@
-# HackLive - Guided Community Hackathon III - NLP
+---
+title: "HackLive III - Guided Community Hackathon - NLP"
+date: 2021-02-19
+tags: [machine learning, data science, nlp]
+excerpt: "Machine Learning, Data Science, NLP"
+---
 
 # Topic Modeling for Research Articles 2.0
 
