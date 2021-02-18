@@ -25,14 +25,14 @@ feature_row:
     alt: "regression"
     title: "Regression Template"
     excerpt: "Have a regression issue? Check out this approach to tabular regression competition baseline!"
-    url: "/Regression-EDA-Baseline/"
+    url: "/first-post/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/NLP.jpg
     alt: "nlp"
     title: "Natural Language Processing Template"
     excerpt: "Have unstructured text? See how to deal with text data in multiple classification competition!"
-    url: "/NLP-EDA-Baseline/"
+    url: "/first-post/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
