@@ -1,6 +1,6 @@
 ---
 title: "HackLive II - Guided Community Hackathon"
-date: 2021-02-18
+date: 2021-02-17
 tags: [machine learning, data science, regression]
 excerpt: "Machine Learning, Data Science, Regression"
 ---

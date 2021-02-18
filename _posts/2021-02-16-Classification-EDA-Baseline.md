@@ -1,6 +1,6 @@
 ---
 title: "HackLive - Guided Community Hackathon"
-date: 2021-02-17
+date: 2021-02-16
 tags: [machine learning, data science, classification]
 excerpt: "Machine Learning, Data Science, Classification"
 ---

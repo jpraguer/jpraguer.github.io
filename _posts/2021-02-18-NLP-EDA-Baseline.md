@@ -1,6 +1,6 @@
 ---
 title: "HackLive III - Guided Community Hackathon - NLP"
-date: 2021-02-19
+date: 2021-02-18
 tags: [machine learning, data science, nlp]
 excerpt: "Machine Learning, Data Science, NLP"
 ---
