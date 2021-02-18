@@ -9,7 +9,7 @@ excerpt: "Machine Learning, Data Science, Regression"
 
 Go there and register to be able to download the dataset and submit your predictions. Click the button below to open this notebook in Google Colab!
 
-<a href="https://colab.research.google.com/github/jpraguer/jpraguer.github.io/master/assets/ipynbs/RegressionEDABaseline.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]("https://colab.research.google.com/github/jpraguer/jpraguer.github.io/blob/master/assets/ipynbs/RegressionEDABaseline.ipynb")
 
 As YouTube becomes one of the most popular video-sharing platforms, YouTuber is developed as a new type of career in recent decades. YouTubers earn money through advertising revenue from YouTube videos, sponsorships from companies, merchandise sales, and donations from their fans. In order to maintain a stable income, the popularity of videos become the top priority for YouTubers. Meanwhile, some of our friends are YouTubers or channel owners in other video-sharing platforms. This raises our interest in predicting the performance of the video. If creators can have a preliminary prediction and understanding on their videos’ performance, they may adjust their video to gain the most attention from the public.
 
