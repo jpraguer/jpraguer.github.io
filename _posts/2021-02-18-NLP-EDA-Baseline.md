@@ -11,7 +11,7 @@ excerpt: "Machine Learning, Data Science, NLP"
 
 Go there and register to be able to download the dataset and submit your predictions. Click the button below to open this notebook in Google Colab!
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]("https://colab.research.google.com/github/jpraguer/jpraguer.github.io/blob/master/assets/ipynbs/NLPEDABaseline.ipynb")
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jpraguer/jpraguer.github.io/blob/master/assets/ipynbs/NLPEDABaseline.ipynb)
 
 Researchers have access to large online archives of scientific articles. As a consequence, finding relevant articles has become more and more difficult. Tagging or topic modelling provides a way to give clear token of identification to research articles which facilitates recommendation and search process. 
 
