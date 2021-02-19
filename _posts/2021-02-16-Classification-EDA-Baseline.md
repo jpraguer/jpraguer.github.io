@@ -9,7 +9,7 @@ excerpt: "Machine Learning, Data Science, Classification"
 
 Go there and register to be able to download the dataset and submit your predictions. Click the button below to open this notebook in Google Colab!
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]("https://colab.research.google.com/github/jpraguer/jpraguer.github.io/blob/master/assets/ipynbs/ClassificationEDABaseline.ipynb")
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jpraguer/jpraguer.github.io/blob/master/assets/ipynbs/ClassificationEDABaseline.ipynb)
 
 Marketing campaigns are characterized by focusing on the customer needs and their overall satisfaction. Nevertheless, there are different variables that determine whether a marketing campaign will be successful or not. Some important aspects of a marketing campaign are as follows: 
 
