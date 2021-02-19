@@ -53,4 +53,4 @@ Here's an image:
 Here's another image using Kramdown:
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/network.jpg)
 
-And here's a [Jupyter Notebook]({% post_url 2021-01-28-Classification-EDA-Baseline %})
+And here's a [Jupyter Notebook]({% post_url 2021-02-16-Classification-EDA-Baseline %})
