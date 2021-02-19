@@ -109,5 +109,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-encoding: UTF-8
