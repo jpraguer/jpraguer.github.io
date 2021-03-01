@@ -11,8 +11,8 @@ header:
     - label: "<i class='fas fa-envelope-open-text'></i> Contact me!"
       url: "mailto:jiri.prazan@gmail.com"
 excerpt:
-  <br>Data Scientist with 3+ years of experience. Enjoys Machine Learning competitions and working on products that change the status quo.<br/>
-  <small>See examples of my work below.</small>
+  <br>Data Analyst/Scientist with 3+ years of experience. :nerd_face: Enjoys Machine Learning competitions and working on products that change the status quo. :boom:<br/>
+  <small>See examples of my work below. :briefcase:</small>
 feature_row:
   - image_path: /assets/images/classification.png
     alt: "classification"

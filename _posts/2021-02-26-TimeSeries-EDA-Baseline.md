@@ -1,8 +1,8 @@
 ---
 title: "HackLive IV - Guided Community Hackathon - TimeSeries"
 date: 2021-02-18
-tags: [machine learning, data science, time series]
-excerpt: "Machine Learning, Data Science, Time Series"
+tags: [machine learning, data science, python, time series]
+excerpt: "Machine Learning, Data Science, Python, Time Series"
 ---
 
 # Prophet Forecasts Stock Prices
@@ -11,7 +11,7 @@ excerpt: "Machine Learning, Data Science, Time Series"
 
 Go there and register to be able to download the dataset and submit your predictions. Click the button below to open this notebook in Google Colab!
 
-<a href="https://colab.research.google.com/github/jpraguer/jpraguer.github.io/master/_posts/TimeSeriesEDABaseline.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jpraguer/jpraguer.github.io/blob/master/assets/ipynbs/TimeSeriesEDABaseline.ipynb)
 
 A stock market, equity market or share market is the aggregation of buyers and sellers of stocks (also called shares), which represent ownership claims on businesses; these may include securities listed on a public stock exchange, as well as stock that is only traded privately, such as shares of private companies which are sold to investors through equity crowdfunding platforms.
 

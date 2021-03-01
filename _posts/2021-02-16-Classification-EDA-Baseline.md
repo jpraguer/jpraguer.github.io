@@ -1,8 +1,8 @@
 ---
 title: "HackLive - Guided Community Hackathon"
 date: 2021-02-16
-tags: [machine learning, data science, classification]
-excerpt: "Machine Learning, Data Science, Classification"
+tags: [machine learning, data science, python, classification]
+excerpt: "Machine Learning, Data Science, Python, Classification"
 ---
 
 [Link to competition here!](https://datahack.analyticsvidhya.com/contest/hacklive-guided-community-hackathon/)

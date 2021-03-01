@@ -1,8 +1,8 @@
 ---
 title: "HackLive II - Guided Community Hackathon"
 date: 2021-02-17
-tags: [machine learning, data science, regression]
-excerpt: "Machine Learning, Data Science, Regression"
+tags: [machine learning, data science, python, regression]
+excerpt: "Machine Learning, Data Science, Python, Regression"
 ---
 
 [Link to competition here!](https://datahack.analyticsvidhya.com/contest/hacklive-2-guided-community-hackathon/)
