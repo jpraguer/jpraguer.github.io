@@ -34,7 +34,14 @@ feature_row:
     excerpt: "Have unstructured text? See how to deal with text data in multiple classification competition!"
     url: "/NLP-EDA-Baseline/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Learn more"
+  - image_path: /assets/images/timeseries.png
+    alt: "ts"
+    title: "Time Series Template"
+    excerpt: "Have a timeseries dataset? Take a look at predicting future stock prices in this competition!"
+    url: "/TimeSeries-EDA-Baseline/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 ---
 
 {% include feature_row %}
